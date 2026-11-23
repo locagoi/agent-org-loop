@@ -1,6 +1,6 @@
 # agent-org-loop
 
-**A starter agent organisation for sales and marketing: one master agent, 21 specialist agents, a shared board and a feedback loop for every role. Answer six questions and get your target audience, an A/B outreach sequence and a weekly plan in about 15 minutes.**
+**A starter agent organisation for sales and marketing: one master agent, 21 specialist agents, a shared board and a feedback loop for every role. Answer six questions and get your target audience, an A/B outreach sequence and a weekly plan.**
 
 It runs in Claude Code. You need nothing else: no CRM, no accounts, no other tools.
 
