@@ -1,8 +1,10 @@
+> English: see [README.md](README.md). This is the original German README.
+
 # Agenten-Hierarchie: 22 KI-Mitarbeiter für Vertrieb und Marketing
 
 Das ist die Agenten-Hierarchie, mit der wir unseren Vertrieb und unser Marketing betreiben. Ein Master-Agent und 21 Fach-Agenten in fünf Teams, für Claude Code, komplett auf Deutsch.
 
-Kein Prompt-Paket. Sechs Monate Betrieb. Fast jede Regel darin steht da, weil vorher etwas schiefgegangen ist. Das Warum steht jeweils dabei (`docs/regeln.md`).
+Kein Prompt-Paket: Fast jede Regel darin steht mit ihrem Warum da, weil vorher etwas schiefgegangen ist. Das Warum steht jeweils dabei (`docs/regeln.md`).
 
 ## Die ersten 15 Minuten
 
