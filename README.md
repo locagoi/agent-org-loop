@@ -79,6 +79,7 @@ After `/einrichten` your clone holds real company data (offer, target audience, 
 
 - Keep your working copy in a **private** repository. Check `firma/`, `ergebnisse/`, `ops/` and `docs/lernen/` before any public fork or push.
 - Never put credentials into files in the repo. Keys belong in `.mcp.json` or `.env`, both already in `.gitignore`.
+- Before any public fork or push, run `node scripts/check-generic.mjs` (add `--history` for every commit). It looks for real email addresses, key-shaped strings, home paths, UUIDs and live domains. Details: [`docs/waechter.md`](docs/waechter.md) (German).
 - Switch on the commit guard once per clone: `git config core.hooksPath .githooks`. It stops commits that contain typical key formats or files like `.env`.
 - If a key was committed: rotate it at the provider right away. Deleting it in the next commit is not enough, it stays in the history.
 
